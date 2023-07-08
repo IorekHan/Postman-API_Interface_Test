@@ -1,6 +1,7 @@
 # Postman-API_Interface_Test
 #### This note shows how to use postman to test API interfaces.
 
+<br>
 # Set up
 Download and install Postman:[https://www.postman.com/downloads/]
 
@@ -46,7 +47,7 @@ Place your Token in Access Token would work
 
 * All of your requests will be saved in History tab with results.
 
-<br>
+
 
 ### GET
 * Get data from API (or simply a site), you can assign what format of raw data you are receiving.
